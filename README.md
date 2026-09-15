@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nexus</h1>
+<h1 align="center">Hi 👋, I'm Ahyar Ramdani</h1>
 <h3 align="center">A passionate Full-stack Web Developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
